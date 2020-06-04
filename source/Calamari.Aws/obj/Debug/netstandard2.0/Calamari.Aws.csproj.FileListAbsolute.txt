@@ -1,0 +1,15 @@
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\javatest.jar
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\Calamari.Aws.dll.config
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\Calamari.Aws.deps.json
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\Calamari.Aws.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\Calamari.Aws.pdb
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\Calamari.Shared.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\bin\Debug\netstandard2.0\Calamari.Shared.pdb
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\PlatformCompat.Analyzers.settings
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.AssemblyInfo.cs
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.csproj.CopyComplete
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Aws\obj\Debug\netstandard2.0\Calamari.Aws.pdb

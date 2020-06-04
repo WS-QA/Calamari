@@ -1,0 +1,11 @@
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\bin\Debug\netstandard2.0\javatest.jar
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\bin\Debug\netstandard2.0\Calamari.Shared.deps.json
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\bin\Debug\netstandard2.0\Calamari.Shared.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\bin\Debug\netstandard2.0\Calamari.Shared.pdb
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\Calamari.Shared.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\Calamari.Shared.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\PlatformCompat.Analyzers.settings
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\Calamari.Shared.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\Calamari.Shared.AssemblyInfo.cs
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\Calamari.Shared.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Shared\obj\Debug\netstandard2.0\Calamari.Shared.pdb

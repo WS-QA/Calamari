@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari" t="IncludeRecursive">
+      <e p="app.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Calamari.csproj" t="IncludeRecursive" />
+      <e p="Calamari.exe.manifest" t="Include" />
+      <e p="Calamari.nuspec" t="Include" />
+      <e p="Commands" t="Include">
+        <e p="CleanCommand.cs" t="Include" />
+        <e p="DeployPackageCommand.cs" t="Include" />
+        <e p="DownloadPackageCommand.cs" t="Include" />
+        <e p="ExtractPackageToStagingCommand.cs" t="Include" />
+        <e p="FindPackageCommand.cs" t="Include" />
+        <e p="HealthCheckCommand.cs" t="Include" />
+        <e p="ImportCertificateCommand.cs" t="Include" />
+        <e p="Java" t="Include">
+          <e p="DeployJavaArchiveCommand.cs" t="Include" />
+          <e p="JavaLibraryCommand.cs" t="Include" />
+        </e>
+        <e p="RunScriptCommand.cs" t="Include" />
+        <e p="TransferPackageCommand.cs" t="Include" />
+      </e>
+      <e p="Deployment" t="Include">
+        <e p="Conventions" t="Include">
+          <e p="AlreadyInstalledConvention.cs" t="Include" />
+          <e p="ContributePreviousInstallationConvention.cs" t="Include" />
+          <e p="ContributePreviousSuccessfulInstallationConvention.cs" t="Include" />
+          <e p="CopyPackageToCustomInstallationDirectoryConvention.cs" t="Include" />
+          <e p="ExecuteScriptConvention.cs" t="Include" />
+          <e p="ExtractPackageToApplicationDirectoryConvention.cs" t="Include" />
+          <e p="FeatureConvention.cs" t="Include" />
+          <e p="JavaStepConvention.cs" t="Include" />
+          <e p="LegacyIisWebSiteConvention.cs" t="Include" />
+          <e p="RePackArchiveConvention.cs" t="Include" />
+          <e p="RollbackScriptConvention.cs" t="Include" />
+          <e p="TransferPackageConvention.cs" t="Include" />
+        </e>
+        <e p="Features" t="Include">
+          <e p="IFeature.cs" t="Include" />
+          <e p="IisWebSiteAfterPostDeployFeature.cs" t="Include" />
+          <e p="IisWebSiteBeforeDeployFeature.cs" t="Include" />
+          <e p="IisWebSiteFeature.cs" t="Include" />
+          <e p="Java" t="Include">
+            <e p="Actions" t="Include">
+              <e p="JavaAction.cs" t="Include" />
+              <e p="JavaKeystoreAction.cs" t="Include" />
+              <e p="TomcatDeployCertificateAction.cs" t="Include" />
+              <e p="TomcatStateAction.cs" t="Include" />
+              <e p="WildflyDeployCertificateAction.cs" t="Include" />
+              <e p="WildFlyStateAction.cs" t="Include" />
+            </e>
+            <e p="JavaBaseFeature.cs" t="Include" />
+            <e p="TomcatFeature.cs" t="Include" />
+            <e p="WildflyFeature.cs" t="Include" />
+          </e>
+          <e p="NginxFeature.cs" t="Include" />
+        </e>
+        <e p="Journal" t="Include">
+          <e p="DeployedPackage.cs" t="Include" />
+          <e p="DeploymentJournal.cs" t="Include" />
+          <e p="DeploymentJournalWriter.cs" t="Include" />
+          <e p="IDeploymentJournal.cs" t="Include" />
+          <e p="JournalEntry.cs" t="Include" />
+        </e>
+        <e p="Retention" t="Include">
+          <e p="IRetentionPolicy.cs" t="Include" />
+          <e p="RetentionPolicy.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Extensions" t="Include">
+        <e p="ModuleLoader.cs" t="Include" />
+      </e>
+      <e p="Integration" t="Include">
+        <e p="Iis" t="Include">
+          <e p="ApplicationPoolIdentityType.cs" t="Include" />
+          <e p="IInternetInformationServer.cs" t="Include" />
+          <e p="InternetInformationServer.cs" t="Include" />
+          <e p="WebServerSevenSupport.cs" t="Include" />
+          <e p="WebServerSixSupport.cs" t="Include" />
+          <e p="WebServerSupport.cs" t="Include" />
+        </e>
+        <e p="Nginx" t="Include">
+          <e p="NginxConfigurationValidationFailedException.cs" t="Include" />
+          <e p="NginxDirectives.cs" t="Include" />
+          <e p="NginxMissingRootLocationException.cs" t="Include" />
+          <e p="NginxReloadConfigurationFailedException.cs" t="Include" />
+          <e p="NginxServer.cs" t="Include" />
+          <e p="NixNginxServer.cs" t="Include" />
+          <e p="WindowsNginxServer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Kubernetes" t="Include">
+        <e p="Commands" t="Include">
+          <e p="HelmUpgradeCommand.cs" t="Include" />
+        </e>
+        <e p="Conventions" t="Include">
+          <e p="HelmUpgradeConvention.cs" t="Include" />
+          <e p="RawValuesToYamlConverter.cs" t="Include" />
+        </e>
+        <e p="KubernetesContextScriptWrapper.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="KubectlBashContext.sh" t="Include" />
+          <e p="KubectlPowershellContext.ps1" t="Include" />
+        </e>
+        <e p="SpecialVariables.cs" t="Include" />
+      </e>
+      <e p="Modules" t="Include">
+        <e p="CalamariProgramModule.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net462" t="Include">
+            <e p="Calamari.AssemblyInfo.cs" t="Include" />
+            <e p="PlatformCompat.Analyzers.settings" t="Include" />
+          </e>
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Calamari.AssemblyInfo.cs" t="Include" />
+            <e p="PlatformCompat.Analyzers.settings" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Scripts" t="Include">
+        <e p="Octopus.Features.HelloWorld_BeforePreDeploy.ps1" t="Include" />
+        <e p="Octopus.Features.HelloWorld_BeforePreDeploy.sh" t="Include" />
+        <e p="Octopus.Features.IISWebSite_BeforePostDeploy.ps1" t="Include" />
+        <e p="Octopus.Features.Nginx_AfterDeploy.sh" t="Include" />
+        <e p="Octopus.Features.Nginx_BeforePreDeploy.sh" t="Include" />
+        <e p="Octopus.Features.Nginx_DeployFailed.sh" t="Include" />
+        <e p="Octopus.Features.RedGateDatabase_BeforePostDeploy.ps1" t="Include" />
+        <e p="Octopus.Features.Vhd_BeforePostDeploy.ps1" t="Include" />
+        <e p="Octopus.Features.Vhd_BeforePreDeploy.ps1" t="Include" />
+        <e p="Octopus.Features.Vhd_DeployFailed.ps1" t="Include" />
+        <e p="Octopus.Features.WindowsService_AfterPreDeploy.ps1" t="Include" />
+        <e p="Octopus.Features.WindowsService_BeforePostDeploy.ps1" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.01" t="ExcludeRecursive" />
+  </component>
+</project>

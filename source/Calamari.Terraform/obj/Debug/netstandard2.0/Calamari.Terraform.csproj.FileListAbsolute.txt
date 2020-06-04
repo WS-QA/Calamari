@@ -1,0 +1,14 @@
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\bin\Debug\netstandard2.0\javatest.jar
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\bin\Debug\netstandard2.0\Calamari.Terraform.deps.json
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\bin\Debug\netstandard2.0\Calamari.Terraform.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\bin\Debug\netstandard2.0\Calamari.Terraform.pdb
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\bin\Debug\netstandard2.0\Calamari.Shared.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\bin\Debug\netstandard2.0\Calamari.Shared.pdb
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\PlatformCompat.Analyzers.settings
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.AssemblyInfo.cs
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.csproj.CopyComplete
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.dll
+C:\EUA\C_sharp_big\Calamari-8.0.0\source\Calamari.Terraform\obj\Debug\netstandard2.0\Calamari.Terraform.pdb
