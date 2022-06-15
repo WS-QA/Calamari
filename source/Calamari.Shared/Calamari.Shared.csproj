@@ -49,7 +49,7 @@
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
     <PackageReference Include="Autofac" Version="4.8.0" />
-    <PackageReference Include="NuGet.Commands" Version="3.5.0" />
+    <PackageReference Include="NuGet.Commands" Version="4.9.5+73d259e97cd8180eb22d05544dfc2c84eebfe113" />
     <PackageReference Include="Markdown" Version="2.1.0" />
     <PackageReference Include="Octopus.Web.XmlTransform" Version="1.0.0-ci0018" />
     <PackageReference Include="Sprache" Version="2.1.0" />
